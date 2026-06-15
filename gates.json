@@ -1,0 +1,15 @@
+{
+  "version": "6.2.0",
+  "align": {
+    "status": "pass",
+    "checks": {
+      "total": 9,
+      "passed": 9,
+      "failed": 0
+    },
+    "mode": [
+      "file_checks",
+      "runtime"
+    ]
+  }
+}
